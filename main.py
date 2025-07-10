@@ -102,5 +102,5 @@ async def invite(ctx):
     
     await ctx.send(embed=embed)
 
-keep_alive()  # ✅ keeps the bot running 24/7
+
 bot.run(os.getenv("TOKEN"))
