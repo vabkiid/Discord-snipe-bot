@@ -3,7 +3,7 @@ from discord.ext import commands
 import datetime
 import os
 import time
-from keep_alive import keep_alive
+
 
 start_time = time.time()
 
